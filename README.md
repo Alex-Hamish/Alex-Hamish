@@ -4,13 +4,16 @@ I like wolves and games.
 
 What Coding Languages I Know
 
-HTML and Python
+HTML, Python And Javascript
 
-
+``` javascript
+var AlexHamish = "cool";
+console.log("Alex-Hamish is " + AlexHamish);
+```
 
 What Coding Languages I'm Learning
 
-Java and Javascript
+Java
 
 
 If You Use Any Of My Code/Art, Please Give Credit To Me
