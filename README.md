@@ -4,10 +4,10 @@ I like wolves and games.
 
 What Coding Languages I Know
 
-`HTML, Python, Java And Javascript`
+`HTML, Python, Java, CSS, C, C++, Bash, And Javascript`
 
 What Coding Languages I'm Learning
 
-nothing at the moment
+`C#`
 
 If You Use Any Of My Code/Art, Please Give Credit To Me
