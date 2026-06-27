@@ -1,13 +1,12 @@
 # Hi! I'm Alex-Hamish
 
-I like wolves and games.
+I like existing and games.
 
 What Coding Languages I Know
 
-`HTML, Python, Java, CSS, C, C++, Bash, And Javascript`
+`HTML, Python, Java, CSS, C, C++, Bash, C#, And Javascript`
 
 What Coding Languages I'm Learning
 
-`C#`
+`SoyCPU Asm`
 
-If You Use Any Of My Code/Art, Please Give Credit To Me
